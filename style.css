@@ -1,0 +1,35 @@
+
+
+.product-image img {
+
+   height: 45vh;
+   width: 32vh; 
+   margin-right: 0px;
+   margin-top: 3px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-top: 150px;
+   margin-left: 150px;
+}
+
+.product-info {
+    max-width: 100%;
+    width: 25vw;
+   height: 45vh; 
+   background-color: white; 
+   margin-right: 400px;
+   
+}
+
+h4 {
+    
+}
+
+body {
+    background-color: hsl(30, 38%, 92%);
+}
