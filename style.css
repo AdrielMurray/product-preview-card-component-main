@@ -2,27 +2,24 @@
 
 .product-image img {
 
-   height: 45vh;
-   width: 32vh; 
-   margin-right: 0px;
-   margin-top: 3px;
-
+   
+   display: block;
+   max-width: 100%;
+  
+   
 }
+
 
 .container {
     display: flex;
     justify-content: center;
-    align-items: center;
-   margin-top: 150px;
-   margin-left: 150px;
+    max-width: 35rem;
+    
 }
 
 .product-info {
-    max-width: 100%;
-    width: 25vw;
-   height: 45vh; 
+    
    background-color: white; 
-   margin-right: 400px;
    
 }
 
@@ -32,4 +29,8 @@ h4 {
 
 body {
     background-color: hsl(30, 38%, 92%);
+    min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
