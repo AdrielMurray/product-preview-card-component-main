@@ -14,7 +14,7 @@ font-family: 'Montserrat', sans-serif;
 
 .product-image img {
 
-   
+   height: 100%;
    display: block;
    max-width: 100%;
    width: 55vw;
@@ -23,12 +23,7 @@ font-family: 'Montserrat', sans-serif;
    border-bottom-left-radius: 10px;
 }
 
-.product-image {
 
-    width: 55vw;
-   height: 50vh;
-   
-}
 
 
 
@@ -46,6 +41,7 @@ font-family: 'Montserrat', sans-serif;
    background-color: white; 
    padding-left: 0.7rem;
    width: 55vw;
+   height: 72.5vh;
    border-top-right-radius: 10px;
    border-bottom-right-radius: 10px;
    
