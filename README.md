@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://your-solution-url.com)
-- Live Site URL: [Click Here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/AdrielMurray/product-preview-card-component-main)
+- Live Site URL: [Click Here]( https://adrielmurray.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -50,7 +50,7 @@ Users should be able to:
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AdrielMurray)
+- Frontend Mentor - [@AdrielMurray](https://www.frontendmentor.io/profile/AdrielMurray)
 
 
 
